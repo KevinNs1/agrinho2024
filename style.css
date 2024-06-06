@@ -1,13 +1,13 @@
 body{
 
-background-color: rgb(255, 8, 0);
+background-color: rgb(247, 244, 244);
 
 }
 
 header{
     display: flex;
     justify-content: space-between;
-    background-color: black;
+    background-color: rgb(241, 9, 183);
 }
 
 .cabecalho_imagem{
@@ -21,4 +21,5 @@ header{
 .cabecalho_menu-listaitem{
     display: inline;
     text-transform: uppercase;
+    margin-left: 20px;
 }
