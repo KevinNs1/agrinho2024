@@ -1,6 +1,6 @@
 body{
 
-background-color: rgb(247, 244, 244);
+background-color: rgb(26, 21, 21);
 
 }
 
@@ -24,3 +24,21 @@ header{
     margin-left: 20px;
     align-center:
 }
+
+.sobre{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.sobre.imagem{
+    width: 400px;
+    height: 400px;
+    padding: 20px;
+}
+
+.sobre_texto{
+    text-align: justify;
+    width: 400px ;  
+  }
