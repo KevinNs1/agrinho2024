@@ -18,3 +18,7 @@ header{
 }
 
 
+.cabecalho_menu-listaitem{
+    display: inline;
+    text-transform: uppercase;
+}
